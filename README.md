@@ -41,8 +41,8 @@ Ao acessar o servidor via navegador:
 - SSH (acesso remoto)
 - RDP (acesso remoto gráfico)
 - Banco de dados (MySQL/MariaDB)
--Possível risco de autenticação fraca
--Superfície de ataque ampliada
+- Possível risco de autenticação fraca
+- Superfície de ataque ampliada
 ## 🧠 Interpretação
 
 Foi identificado um servidor com múltiplos serviços expostos à internet, incluindo acesso remoto e banco de dados.
