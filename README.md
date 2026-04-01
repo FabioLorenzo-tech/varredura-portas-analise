@@ -25,6 +25,8 @@ nmap -sV --version-all -Pn -n 189.127.[redacted]
 | 3389/tcp | open | rdp    | Microsoft Terminal Services     |
 
 **Service Info:** OS: Windows
+
+![Scan Nmap](images-nmap-scan.jpg)
 ## 🌐 Análise Web
 
 Ao acessar o servidor via navegador:
