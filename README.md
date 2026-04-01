@@ -15,11 +15,11 @@ Comando utilizado:
 nmap -sV --version-all -Pn -n 189.127.***.***
 ## 📊 Resultado (adaptado):
 PORT     STATE  SERVICE   VERSION
--- 22/tcp   open   ssh       OpenSSH (Windows)
--- 80/tcp   open   http      Apache (PHP)
--- 443/tcp  open   https     Apache (PHP)
--- 3306/tcp open   mysql     MariaDB (unauthorized)
--- 3389/tcp open   rdp       Microsoft Terminal Services
+- 22/tcp   open   ssh       OpenSSH (Windows)
+- 80/tcp   open   http      Apache (PHP)
+- 443/tcp  open   https     Apache (PHP)
+- 3306/tcp open   mysql     MariaDB (unauthorized)
+- 3389/tcp open   rdp       Microsoft Terminal Services
 
 Service Info: OS: Windows
 ## 🌐 Análise Web
