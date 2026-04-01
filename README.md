@@ -26,7 +26,7 @@ nmap -sV --version-all -Pn -n 189.127.[redacted]
 
 **Service Info:** OS: Windows
 
-![Scan Nmap](images-nmap-scan.jpg)
+![Scan Nmap](images/images-nmap-scan.jpg)
 ## 🌐 Análise Web
 
 Ao acessar o servidor via navegador:
