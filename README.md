@@ -37,6 +37,8 @@ Ao acessar o servidor via navegador:
 ## 📂 Diretórios expostos:
 - /creativezk/
 - /transcripts/
+
+![Web Service](images/web-service.jpg)
 ## ⚠️ Possíveis Riscos Identificados
 - Exposição de arquivos sensíveis via directory listing
 - Serviços críticos expostos publicamente:
