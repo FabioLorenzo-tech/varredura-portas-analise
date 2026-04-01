@@ -12,7 +12,7 @@ Este projeto documenta uma análise inicial de reconhecimento (reconhecimento de
 
 Comando utilizado:
 
-nmap -sV --version-all -Pn -n 189.127.x.x
+nmap -sV --version-all -Pn -n 189.127.[redacted]
 ## 📊 Resultado (adaptado):
 
 | PORT     | STATE | SERVICE | VERSION                          |
