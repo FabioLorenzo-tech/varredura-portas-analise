@@ -1,5 +1,12 @@
 ## 🔐 Attack Surface Analysis
 🚀 Projeto prático de análise de superfície de ataque utilizando Nmap
+
+![Nmap](https://img.shields.io/badge/Nmap-Reconhecimento-red)
+![Web](https://img.shields.io/badge/Web-Analysis-blue)
+![Windows](https://img.shields.io/badge/OS-Windows-green)
+
+---
+
 ## 📌 Descrição
 
 Este projeto documenta uma análise inicial de reconhecimento (reconhecimento de rede) em um servidor web exposto, com foco na identificação de serviços ativos e possíveis riscos de segurança.
